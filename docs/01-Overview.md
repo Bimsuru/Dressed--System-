@@ -4,8 +4,6 @@
 
 The purpose of this document is to provide a high-level overview of the Dressed™ software system, describing the business problem it addresses, the goals of the system, the primary users, and the proposed high-level solution architecture.
 
-This document is intended to help stakeholders and interviewers quickly understand **why the system exists** and **what it aims to achieve**.
-
 ---
 
 ## 2. Business Problem
